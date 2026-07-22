@@ -40,7 +40,7 @@ This is a command-line Expense Tracker developed in Python to help users record,
 ```text
 Expense-Tracker-Python/
 ├── expense_tracker.py
-├── sample_expenses.csv
+├── expenses.csv
 ├── README.md
 └── images/
 ```
